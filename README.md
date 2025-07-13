@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Okky!
 🧑🏻‍💻 Machine learning and data enthusiast sharing and documenting my journey in tech<br/><br>🧑🏻‍🎓 Studying Computer Science at Bina Nusantara University, Indonesia
 
 # 💻 Tech Stack:
