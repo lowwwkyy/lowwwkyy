@@ -1,5 +1,9 @@
-## Hi there 👋
+### Hi, I'm Okky!
 
+🧑🏻‍💻 Machine learning and data enthusiast sharing and documenting my journey in tech<br/>
+🧑🏻‍🎓 Studying Computer Science at Bina Nusantara University, Indonesia
+
+[![Okky's GitHub stats](https://github-readme-stats.vercel.app/api?username=lowwwkyy&show_icons=true&theme=radical)
 <!--
 **lowwwkyy/lowwwkyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
